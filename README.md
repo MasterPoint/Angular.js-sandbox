@@ -1,3 +1,1 @@
-/**
- * Readne file
- */
+* Readme file
